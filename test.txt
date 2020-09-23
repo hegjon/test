@@ -1,3 +1,5 @@
 Hei
 
 Git commit #1 during squash
+
+Git commit #2 during squash
