@@ -1,1 +1,3 @@
 Hei
+
+Git commit #1 during squash
