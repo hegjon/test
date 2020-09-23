@@ -5,3 +5,5 @@ Git commit #1 during squash
 Git commit #2 during squash
 
 Git commit #3 during squash
+
+Git commit #4 during squash
